@@ -1,5 +1,7 @@
 ## LabenuSystem:
 
+### Projeto criado por mim e mais 2 alunos da instituição
+
 Você estuda na Labenu_ há tanto tempo que já parecem anos, não é? Então, hoje, vamos pedir para criar um sistema que represente o básico da nossa organização. 
 
 Ele deve possuir, ao menos, as 3 entidades importantes:
